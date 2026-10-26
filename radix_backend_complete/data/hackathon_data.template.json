@@ -1,0 +1,53 @@
+{
+  "candidates": [
+    {
+      "key": "candidate_1",
+      "profile": {
+        "user_id": "REPLACE_WITH_EXISTING_AUTH_USER_UUID",
+        "full_name": "REPLACE_WITH_REAL_SAMPLE_CANDIDATE_NAME",
+        "email": null,
+        "phone": null,
+        "location": null,
+        "education": [],
+        "graduation_year": null,
+        "linkedin_url": null,
+        "github_url": null,
+        "portfolio_url": null,
+        "resume_file_path": null
+      },
+      "skills": [],
+      "projects": [],
+      "experiences": [],
+      "certifications": []
+    }
+  ],
+  "job_descriptions": [
+    {
+      "key": "jd_1",
+      "created_by": null,
+      "company_name": "REPLACE_WITH_SOURCE_COMPANY",
+      "job_title": "REPLACE_WITH_SOURCE_ROLE",
+      "job_location": null,
+      "employment_type": null,
+      "description_text": "PASTE_THE_ACTUAL_JOB_DESCRIPTION_TEXT_HERE",
+      "source_type": "pasted_text",
+      "file_path": null,
+      "analysis_status": "pending",
+      "analysis_error": null,
+      "skills": []
+    }
+  ],
+  "company_skill_expectations": [
+    {
+      "company_name": "REPLACE_WITH_SOURCE_COMPANY",
+      "role_name": "REPLACE_WITH_SOURCE_ROLE",
+      "skill_name": "REPLACE_WITH_VERIFIED_SKILL",
+      "normalized_skill_name": "replace_with_verified_skill",
+      "skill_category": "COD",
+      "expected_level": "intermediate",
+      "importance_weight": 1,
+      "source": "REPLACE_WITH_ACTUAL_DATASET_FILENAME",
+      "source_version": null
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{t as e}from"./CompanyDataError-C4JFpkls.js";var t=e;export{t as errorComponent};

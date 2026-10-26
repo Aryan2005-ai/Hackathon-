@@ -1,0 +1,8 @@
+SUPABASE_PROJECT_ID="yizpbqgpjndpcndswseq"
+SUPABASE_PUBLISHABLE_KEY="sb_publishable_UaQLZscy2CUD5NoPxJcerA_RKIsUAj4"
+SUPABASE_URL="https://yizpbqgpjndpcndswseq.supabase.co"
+VITE_SUPABASE_PROJECT_ID="yizpbqgpjndpcndswseq"
+VITE_SUPABASE_PUBLISHABLE_KEY="sb_publishable_UaQLZscy2CUD5NoPxJcerA_RKIsUAj4"
+VITE_SUPABASE_URL="https://yizpbqgpjndpcndswseq.supabase.co"
+VITE_LOGO_DEV_PUBLISHABLE_KEY=pk_M1PjNcpmQLWmgKojF1LxEA
+VITE_API_BASE_URL=http://127.0.0.1:8000

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JSS UNIVERSITY Companies Research & Placement Analytics Portal
 
 a.k.a. **JSS UNIVERSITY Placement Intelligence Hub**. College used: `COLLEGE_NAME = "JSS UNIVERSITY"`, `COLLEGE_SHORT = "JSS"` (see `src/lib/companies.ts`).
@@ -24,3 +25,6 @@ Swap `src/lib/companies.ts` to read database rows. The normalizers in `src/lib/c
 ## Tests
 
 `bunx vitest run`
+=======
+# Hackathon-
+>>>>>>> 3713a652132397e00827098145ef199c0bd0522d
